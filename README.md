@@ -2,25 +2,21 @@
 
 This simple workflow lets you search emoji codes and their symbols.
 
-## Copy the emoji code to use on Campfire, GitHub, etc.
+## Search emoji
+
 Usage: `emoji [query]`
 
-After you hit `enter` the code of the selected emoji will be copied to your
-clipboard.
+Select a result and hit `ENTER` to copy symbol to clipboard.
 
-## Copy the actual emoji symbol to use on any OS X app.
-Usage: `symoji [query]`
-
-After you hit `enter` the symbol of the selected emoji will be copied to your
-clipboard.
+Hit `CMD+ENTER` to copy emoji name in `:name:` format to clipboard for use on GitHub etc.
 
 ### Last but not least:
 
-* __The `query` argument is optional for both commands. If you don't specify a `query`,
-the whole list of emoji will be presented.__
+* The `query` argument is optional for both commands. If you don't specify a `query`,
+the whole list of emoji will be presented.
 
-* __You can also search an emoji using related words. Check the full list
-[here][related words link]. And also contribute with new words.__
+* acorYou can also search an emoji using related words. Check the full list
+[here][related words link]. And also contribute with new words.
 
 [DOWNLOAD](http://bit.ly/10Azqx2)
 
