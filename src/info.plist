@@ -67,11 +67,11 @@
 	<key>createdby</key>
 	<string>Carlos Galdino (@carlosgaldino)</string>
 	<key>description</key>
-	<string>Search emoji codes</string>
+	<string>Search emoji</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Emoji codes</string>
+	<string>Emoji</string>
 	<key>objects</key>
 	<array>
 		<dict>
