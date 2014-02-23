@@ -18,9 +18,9 @@ the whole list of emoji will be presented.
 * acorYou can also search an emoji using related words. Check the full list
 [here][related words link]. And also contribute with new words.
 
-[DOWNLOAD](http://bit.ly/10Azqx2)
+[DOWNLOAD](https://github.com/deanishe/alfred-emoji-workflow/raw/master/Emoji.alfredworkflow)
 
-![](http://f.cl.ly/items/3B18383s2O0B2Z0b2g11/Screen%20Shot%202013-12-06%20at%201.06.25%20AM.png)
+![](https://raw2.github.com/deanishe/alfred-emoji-workflow/master/screenshot.png)
 
 [related words link]:
 https://github.com/carlosgaldino/alfred-emoji-workflow/blob/master/related_words.rb
